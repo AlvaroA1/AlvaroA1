@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @AlvaroA1
+- 👀 I’m interested in chess and in coding
+- 🌱 I’m currently learning html, css and python
+- 💞️ I’m looking to collaborate on a proyect to create an AI
+- 📫 How to reach me:
+- Twitter: 
